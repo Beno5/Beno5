@@ -5,7 +5,7 @@
 
 - 📚 I’m currently learning **Ruby on Rails and JavaScript**
 
-- 👨‍💻 All of my projects are available at [In progress... ⏱️](In progress... ⏱️)
+- 👨‍💻 All of my projects are available at In progress... ⏱️)
 
 - 📫 How to reach me **benjamin.fejzagic@hotmail.com**
 
