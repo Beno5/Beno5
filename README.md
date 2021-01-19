@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **benjamin.fejzagic@hotmail.com**
 
-- 📄 Know me better 👉 <a href="https://github.com/Beno5/Beno5/blob/main/Benjamin%20Fejzagic%20CV.pdf">Click here to download PDF</a>
+- 📄 Know me better 👉 <a href="https://github.com/Beno5/Beno5/raw/main/Benjamin%20Fejzagic%20CV.pdf">Download my CV</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
