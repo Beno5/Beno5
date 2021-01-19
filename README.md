@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Benjamin Fejzagic</h1>
 <h3 align="center">Junior Full Stack Developer</h3>
-<h5 align="center">Le Wagon student <img src="https://emoji.slack-edge.com/T02NE0241/lewagonloop/4a33cb1aa35a7a2f.gif" alt="Le Wagon" style="width:50px;height:50px;"></h5>
+<h5 align="center">Le Wagon student <img src="https://emoji.slack-edge.com/T02NE0241/lewagonloop/4a33cb1aa35a7a2f.gif" alt="Le Wagon" style="width:10px;height:10px;"></h5>
 
 
 - 🔭 I’m currently looking for **Job**
