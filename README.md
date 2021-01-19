@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Benjamin Fejzagic</h1>
 <h3 align="center">Junior Full Stack Developer</h3>
+<h5 align="center">Le Wagon student</h5>
+
 
 - 🔭 I’m currently looking for **Job**
 
